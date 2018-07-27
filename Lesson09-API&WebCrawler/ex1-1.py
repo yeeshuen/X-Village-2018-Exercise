@@ -10,4 +10,4 @@ print(r.text)
 
 print('='*40)
 
-#print(weather['weather_state_name'])
+print(weather['weather_state_name'])
